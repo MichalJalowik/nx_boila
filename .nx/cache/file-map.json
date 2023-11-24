@@ -13,7 +13,7 @@
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.0",
     "tslib": "^2.3.0",
-    "@nestjs/schematics": "^10.0.1",
+    "@nestjs/schematics": "9.2.0",
     "@nestjs/testing": "^10.0.2",
     "@nrwl/cli": "14.6.3",
     "@nrwl/eslint-plugin-nx": "17.1.3",
@@ -73,15 +73,15 @@
       },
       {
         "file": ".nx/cache/d/daemon.log",
-        "hash": "4943841065908142188"
+        "hash": "434339847454417770"
       },
       {
         "file": ".nx/cache/d/server-process.json",
-        "hash": "14054062187522777091"
+        "hash": "5038706910387529067"
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "14880084148510752570"
+        "hash": "18322592413093387934"
       },
       {
         "file": ".nx/cache/lockfile.hash",
@@ -93,7 +93,7 @@
       },
       {
         "file": ".nx/cache/project-graph.json",
-        "hash": "10046528668719170555"
+        "hash": "14673027762665275564"
       },
       {
         "file": ".prettierignore",
@@ -120,20 +120,16 @@
         "hash": "2772139696069860212"
       },
       {
-        "file": "migrations.json",
-        "hash": "3538339837748226290"
-      },
-      {
         "file": "nx.json",
         "hash": "3699058077583103011"
       },
       {
         "file": "package-lock.json",
-        "hash": "2625427428640697438"
+        "hash": "16661357791205687639"
       },
       {
         "file": "package.json",
-        "hash": "16980402738518640604"
+        "hash": "17656929454558222643"
       },
       {
         "file": "tsconfig.base.json",

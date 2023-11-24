@@ -234,15 +234,6 @@
       "type": "npm",
       "name": "npm:@angular-devkit/core",
       "data": {
-        "version": "16.2.8",
-        "packageName": "@angular-devkit/core",
-        "hash": "sha512-PTGozYvh1Bin5lB15PwcXa26Ayd17bWGLS3H8Rs0s+04mUDvfNofmweaX1LgumWWy3nCUTDuwHxX10M3G0wE2g=="
-      }
-    },
-    "npm:@angular-devkit/core@16.0.1": {
-      "type": "npm",
-      "name": "npm:@angular-devkit/core@16.0.1",
-      "data": {
         "version": "16.0.1",
         "packageName": "@angular-devkit/core",
         "hash": "sha512-2uz98IqkKJlgnHbWQ7VeL4pb+snGAZXIama2KXi+k9GsRntdcw+udX8rL3G9SdUGUF+m6+147Y1oRBMHsO/v4w=="
@@ -284,67 +275,13 @@
         "hash": "sha512-xbbCH5dCYU5T8LcEhhuh7HJ88HXuW3qsI3Y0zOZFKfZEHcpWiHU/Jxzk629Brsab/mMiHQti9wMP+845RPe3Vg=="
       }
     },
-    "npm:source-map@0.7.4": {
-      "type": "npm",
-      "name": "npm:source-map@0.7.4",
-      "data": {
-        "version": "0.7.4",
-        "packageName": "source-map",
-        "hash": "sha512-l3BikUxvPOcn5E74dZiq5BGsTb5yEwhaTSzccU6t4sDOH8NWJCstKO5QT2CvtFoK6F0saL7p9xHAqHOlCPJygA=="
-      }
-    },
-    "npm:source-map@0.6.1": {
-      "type": "npm",
-      "name": "npm:source-map@0.6.1",
-      "data": {
-        "version": "0.6.1",
-        "packageName": "source-map",
-        "hash": "sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g=="
-      }
-    },
-    "npm:source-map": {
-      "type": "npm",
-      "name": "npm:source-map",
-      "data": {
-        "version": "0.7.3",
-        "packageName": "source-map",
-        "hash": "sha512-CkCj6giN3S+n9qrYiBTX5gystlENnRW5jZeNLHpe6aue+SrHcG5VYwujhW9s4dY31mEGsxBDrHR6oI69fTXsaQ=="
-      }
-    },
     "npm:@angular-devkit/schematics": {
       "type": "npm",
       "name": "npm:@angular-devkit/schematics",
       "data": {
-        "version": "16.2.8",
-        "packageName": "@angular-devkit/schematics",
-        "hash": "sha512-MBiKZOlR9/YMdflALr7/7w/BGAfo/BGTrlkqsIB6rDWV1dYiCgxI+033HsiNssLS6RQyCFx/e7JA2aBBzu9zEg=="
-      }
-    },
-    "npm:@angular-devkit/schematics@16.0.1": {
-      "type": "npm",
-      "name": "npm:@angular-devkit/schematics@16.0.1",
-      "data": {
         "version": "16.0.1",
         "packageName": "@angular-devkit/schematics",
         "hash": "sha512-A9D0LTYmiqiBa90GKcSuWb7hUouGIbm/AHbJbjL85WLLRbQA2PwKl7P5Mpd6nS/ZC0kfG4VQY3VOaDvb3qpI9g=="
-      }
-    },
-    "npm:magic-string@0.30.1": {
-      "type": "npm",
-      "name": "npm:magic-string@0.30.1",
-      "data": {
-        "version": "0.30.1",
-        "packageName": "magic-string",
-        "hash": "sha512-mbVKXPmS0z0G4XqFDCTllmDQ6coZzn94aMlb0o/A4HEHJCKcanlDZwYJgwnkmgD3jyWhUgj9VsPrfd972yPffA=="
-      }
-    },
-    "npm:magic-string@0.30.0": {
-      "type": "npm",
-      "name": "npm:magic-string@0.30.0",
-      "data": {
-        "version": "0.30.0",
-        "packageName": "magic-string",
-        "hash": "sha512-LA+31JYDJLs82r2ScLrlz1GjSgu66ZV518eyWT+S8VhyQn/JL0u9MeBOvQMGYiPk1DBiSN9DDMOcXvigJZaViQ=="
       }
     },
     "npm:@babel/code-frame": {
@@ -1904,6 +1841,24 @@
         "hash": "sha512-o45Wyn32svZE+LnMVWv/Z4x0SwtLbh4FyGcYtR20kIWd+rdrDZ9Fzq8Ml3MYLD+mZvEdzCjZsCnYZ2jpJyQ+Nw=="
       }
     },
+    "npm:babel-plugin-macros@3.1.0": {
+      "type": "npm",
+      "name": "npm:babel-plugin-macros@3.1.0",
+      "data": {
+        "version": "3.1.0",
+        "packageName": "babel-plugin-macros",
+        "hash": "sha512-Cg7TFGpIr01vOQNODXOOaGz2NpCU5gl8x1qJFbb6hbZxR7XrcE2vtbAsTAbJ7/xwJtUuJEw8K8Zr/AE0LHlesg=="
+      }
+    },
+    "npm:babel-plugin-macros": {
+      "type": "npm",
+      "name": "npm:babel-plugin-macros",
+      "data": {
+        "version": "2.8.0",
+        "packageName": "babel-plugin-macros",
+        "hash": "sha512-SEP5kJpfGYqYKpBrj5XU3ahw5p5GOHJ0U5ssOSQ/WBVdwkD2Dzlce95exQTs3jOVWPPKLBN2rlEWkCK7dSmLvg=="
+      }
+    },
     "npm:chalk@4.1.2": {
       "type": "npm",
       "name": "npm:chalk@4.1.2",
@@ -2273,6 +2228,24 @@
         "hash": "sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA=="
       }
     },
+    "npm:source-map@0.6.1": {
+      "type": "npm",
+      "name": "npm:source-map@0.6.1",
+      "data": {
+        "version": "0.6.1",
+        "packageName": "source-map",
+        "hash": "sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g=="
+      }
+    },
+    "npm:source-map": {
+      "type": "npm",
+      "name": "npm:source-map",
+      "data": {
+        "version": "0.7.4",
+        "packageName": "source-map",
+        "hash": "sha512-l3BikUxvPOcn5E74dZiq5BGsTb5yEwhaTSzccU6t4sDOH8NWJCstKO5QT2CvtFoK6F0saL7p9xHAqHOlCPJygA=="
+      }
+    },
     "npm:source-map-support@0.5.13": {
       "type": "npm",
       "name": "npm:source-map-support@0.5.13",
@@ -2627,15 +2600,6 @@
     "npm:@nestjs/schematics": {
       "type": "npm",
       "name": "npm:@nestjs/schematics",
-      "data": {
-        "version": "10.0.3",
-        "packageName": "@nestjs/schematics",
-        "hash": "sha512-2BRujK0GqGQ7j1Zpz+obVfskDnnOeVKt5aXoSaVngKo8Oczy8uYCY+R547TQB+Kf35epdfFER2pVnQrX3/It5A=="
-      }
-    },
-    "npm:@nestjs/schematics@9.2.0": {
-      "type": "npm",
-      "name": "npm:@nestjs/schematics@9.2.0",
       "data": {
         "version": "9.2.0",
         "packageName": "@nestjs/schematics",
@@ -3036,6 +3000,15 @@
         "version": "5.2.2",
         "packageName": "typescript",
         "hash": "sha512-mI4WrpHsbCIcwT9cF4FZvr80QUeKvsUsUvKDoR+X/7XHQH98xYD8YHZg7ANtz2GtZt/CBq2QJ0thkGJMHfqc1w=="
+      }
+    },
+    "npm:typescript@5.3.2": {
+      "type": "npm",
+      "name": "npm:typescript@5.3.2",
+      "data": {
+        "version": "5.3.2",
+        "packageName": "typescript",
+        "hash": "sha512-6l+RyNy7oAHDfxC4FzSJcz9vnjTKxrLpDG5M2Vu4SHRVNg6xzqZp6LYSR9zjqQTu8DU/f5xwxUdADOkbrIX2gQ=="
       }
     },
     "npm:typescript": {
@@ -4167,6 +4140,15 @@
       "type": "npm",
       "name": "npm:@swc/helpers",
       "data": {
+        "version": "0.5.3",
+        "packageName": "@swc/helpers",
+        "hash": "sha512-FaruWX6KdudYloq1AHD/4nU+UsMTdNE8CKyrseXWEcgjDAbvkwJg2QGPAnfIJLIWsjZOSPLOAykK6fuYp4vp4A=="
+      }
+    },
+    "npm:@swc/helpers@0.4.14": {
+      "type": "npm",
+      "name": "npm:@swc/helpers@0.4.14",
+      "data": {
         "version": "0.4.14",
         "packageName": "@swc/helpers",
         "hash": "sha512-4C7nX/dvpzB7za4Ql9K81xK3HPxCpHMgwTZVyf+9JQ6VUbn9jjZVN7/Nkdz/Ugzs2CSjqnL/UPXroiVBVHUWUw=="
@@ -5180,15 +5162,6 @@
         "hash": "sha512-dlcsNBIiWhPkHdOEEKnehA+RNUWDc4UqFtnIXU4uuYDPtA4LDkr7qip2p0VvFAEXNDr0yWZ9PJyIRiGjRLQzwQ=="
       }
     },
-    "npm:array-timsort": {
-      "type": "npm",
-      "name": "npm:array-timsort",
-      "data": {
-        "version": "1.0.3",
-        "packageName": "array-timsort",
-        "hash": "sha512-/+3GRL7dDAGEfM6TseQk/U+mi18TU2Ms9I3UlLdUMhz2hbvGNTKdj9xniwXfUqgYhHxRx0+8UnKkvlNwVU+cWQ=="
-      }
-    },
     "npm:array-union": {
       "type": "npm",
       "name": "npm:array-union",
@@ -5358,15 +5331,6 @@
         "version": "29.6.3",
         "packageName": "babel-plugin-jest-hoist",
         "hash": "sha512-ESAc/RJvGTFEzRwOTT4+lNDk/GNHMkKbNzsvT0qKRfDyyYTskxB5rnU2njIDYVxXCBHHEI1c0YwHob3WaYujOg=="
-      }
-    },
-    "npm:babel-plugin-macros": {
-      "type": "npm",
-      "name": "npm:babel-plugin-macros",
-      "data": {
-        "version": "2.8.0",
-        "packageName": "babel-plugin-macros",
-        "hash": "sha512-SEP5kJpfGYqYKpBrj5XU3ahw5p5GOHJ0U5ssOSQ/WBVdwkD2Dzlce95exQTs3jOVWPPKLBN2rlEWkCK7dSmLvg=="
       }
     },
     "npm:babel-plugin-polyfill-corejs2": {
@@ -5808,15 +5772,6 @@
         "version": "2.20.3",
         "packageName": "commander",
         "hash": "sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ=="
-      }
-    },
-    "npm:comment-json": {
-      "type": "npm",
-      "name": "npm:comment-json",
-      "data": {
-        "version": "4.2.3",
-        "packageName": "comment-json",
-        "hash": "sha512-SsxdiOf064DWoZLH799Ata6u7iV658A11PlWtZATDlXPpKGJnbJZ5Z24ybixAi+LUUqJ/GKowAejtC5GFUG7Tw=="
       }
     },
     "npm:common-path-prefix": {
@@ -7502,15 +7457,6 @@
         "hash": "sha512-tSvCKtBr9lkF0Ex0aQiP9N+OpV4zi2r/Nee5VkRDbaqv35RLYMzbwQfFSZZH0kR+Rd6302UJZ2p/bJCEoR3VoQ=="
       }
     },
-    "npm:has-own-prop": {
-      "type": "npm",
-      "name": "npm:has-own-prop",
-      "data": {
-        "version": "2.0.0",
-        "packageName": "has-own-prop",
-        "hash": "sha512-Pq0h+hvsVm6dDEa8x82GnLSYHOzNDt7f0ddFa3FqcQlgzEiptPqL+XrOJNavjOzSYiYWIrgeVYYgGlLmnxwilQ=="
-      }
-    },
     "npm:has-property-descriptors": {
       "type": "npm",
       "name": "npm:has-property-descriptors",
@@ -8717,6 +8663,15 @@
         "hash": "sha512-h5bgJWpxJNswbU7qCrV0tIKQCaS3blPDrqKWx+QxzuzL1zGUzij9XCWLrSLsJPu5t+eWA/ycetzYAO5IOMcWAQ=="
       }
     },
+    "npm:magic-string": {
+      "type": "npm",
+      "name": "npm:magic-string",
+      "data": {
+        "version": "0.30.0",
+        "packageName": "magic-string",
+        "hash": "sha512-LA+31JYDJLs82r2ScLrlz1GjSgu66ZV518eyWT+S8VhyQn/JL0u9MeBOvQMGYiPk1DBiSN9DDMOcXvigJZaViQ=="
+      }
+    },
     "npm:make-error": {
       "type": "npm",
       "name": "npm:make-error",
@@ -9813,15 +9768,6 @@
         "version": "0.9.1",
         "packageName": "regjsparser",
         "hash": "sha512-dQUtn90WanSNl+7mQKcXAgZxvUe7Z0SqXlgzv0za4LwiUhyzBC58yQO3liFoUgu8GiJVInAhJjkj1N0EtQ5nkQ=="
-      }
-    },
-    "npm:repeat-string": {
-      "type": "npm",
-      "name": "npm:repeat-string",
-      "data": {
-        "version": "1.6.1",
-        "packageName": "repeat-string",
-        "hash": "sha512-PV0dzCYDNfRi1jCDbJzpW7jNNDRuCOG/jI5ctQcGKt/clZD+YcPS3yIlWuTJMmESC8aevCFmWJy5wjAFgNqN6w=="
       }
     },
     "npm:require-directory": {
@@ -11276,17 +11222,12 @@
       },
       {
         "source": "npm:@angular-devkit/core",
-        "target": "npm:picomatch",
-        "type": "static"
-      },
-      {
-        "source": "npm:@angular-devkit/core",
         "target": "npm:rxjs",
         "type": "static"
       },
       {
         "source": "npm:@angular-devkit/core",
-        "target": "npm:source-map@0.7.4",
+        "target": "npm:source-map",
         "type": "static"
       }
     ],
@@ -11325,7 +11266,7 @@
       },
       {
         "source": "npm:@angular-devkit/schematics",
-        "target": "npm:magic-string@0.30.1",
+        "target": "npm:magic-string",
         "type": "static"
       },
       {
@@ -11336,13 +11277,6 @@
       {
         "source": "npm:@angular-devkit/schematics",
         "target": "npm:rxjs",
-        "type": "static"
-      }
-    ],
-    "npm:magic-string@0.30.1": [
-      {
-        "source": "npm:magic-string@0.30.1",
-        "target": "npm:@jridgewell/sourcemap-codec",
         "type": "static"
       }
     ],
@@ -14355,6 +14289,23 @@
         "type": "static"
       }
     ],
+    "npm:babel-plugin-macros@3.1.0": [
+      {
+        "source": "npm:babel-plugin-macros@3.1.0",
+        "target": "npm:@babel/runtime",
+        "type": "static"
+      },
+      {
+        "source": "npm:babel-plugin-macros@3.1.0",
+        "target": "npm:cosmiconfig",
+        "type": "static"
+      },
+      {
+        "source": "npm:babel-plugin-macros@3.1.0",
+        "target": "npm:resolve",
+        "type": "static"
+      }
+    ],
     "npm:chalk@4.1.2": [
       {
         "source": "npm:chalk@4.1.2",
@@ -14371,6 +14322,13 @@
       {
         "source": "npm:color-convert@2.0.1",
         "target": "npm:color-name@1.1.4",
+        "type": "static"
+      }
+    ],
+    "npm:dedent@1.5.1": [
+      {
+        "source": "npm:dedent@1.5.1",
+        "target": "npm:babel-plugin-macros@3.1.0",
         "type": "static"
       }
     ],
@@ -15640,17 +15598,17 @@
     "npm:@nestjs/schematics": [
       {
         "source": "npm:@nestjs/schematics",
+        "target": "npm:typescript",
+        "type": "static"
+      },
+      {
+        "source": "npm:@nestjs/schematics",
         "target": "npm:@angular-devkit/core",
         "type": "static"
       },
       {
         "source": "npm:@nestjs/schematics",
         "target": "npm:@angular-devkit/schematics",
-        "type": "static"
-      },
-      {
-        "source": "npm:@nestjs/schematics",
-        "target": "npm:comment-json",
         "type": "static"
       },
       {
@@ -16561,7 +16519,7 @@
     "npm:@nx/nest": [
       {
         "source": "npm:@nx/nest",
-        "target": "npm:@nestjs/schematics@9.2.0",
+        "target": "npm:@nestjs/schematics",
         "type": "static"
       },
       {
@@ -16597,99 +16555,6 @@
       {
         "source": "npm:@nx/nest",
         "target": "npm:tslib",
-        "type": "static"
-      }
-    ],
-    "npm:@angular-devkit/core@16.0.1": [
-      {
-        "source": "npm:@angular-devkit/core@16.0.1",
-        "target": "npm:chokidar",
-        "type": "static"
-      },
-      {
-        "source": "npm:@angular-devkit/core@16.0.1",
-        "target": "npm:ajv@8.12.0",
-        "type": "static"
-      },
-      {
-        "source": "npm:@angular-devkit/core@16.0.1",
-        "target": "npm:ajv-formats",
-        "type": "static"
-      },
-      {
-        "source": "npm:@angular-devkit/core@16.0.1",
-        "target": "npm:jsonc-parser",
-        "type": "static"
-      },
-      {
-        "source": "npm:@angular-devkit/core@16.0.1",
-        "target": "npm:rxjs",
-        "type": "static"
-      },
-      {
-        "source": "npm:@angular-devkit/core@16.0.1",
-        "target": "npm:source-map@0.7.4",
-        "type": "static"
-      }
-    ],
-    "npm:@angular-devkit/schematics@16.0.1": [
-      {
-        "source": "npm:@angular-devkit/schematics@16.0.1",
-        "target": "npm:@angular-devkit/core@16.0.1",
-        "type": "static"
-      },
-      {
-        "source": "npm:@angular-devkit/schematics@16.0.1",
-        "target": "npm:jsonc-parser",
-        "type": "static"
-      },
-      {
-        "source": "npm:@angular-devkit/schematics@16.0.1",
-        "target": "npm:magic-string@0.30.0",
-        "type": "static"
-      },
-      {
-        "source": "npm:@angular-devkit/schematics@16.0.1",
-        "target": "npm:ora",
-        "type": "static"
-      },
-      {
-        "source": "npm:@angular-devkit/schematics@16.0.1",
-        "target": "npm:rxjs",
-        "type": "static"
-      }
-    ],
-    "npm:@nestjs/schematics@9.2.0": [
-      {
-        "source": "npm:@nestjs/schematics@9.2.0",
-        "target": "npm:typescript",
-        "type": "static"
-      },
-      {
-        "source": "npm:@nestjs/schematics@9.2.0",
-        "target": "npm:@angular-devkit/core@16.0.1",
-        "type": "static"
-      },
-      {
-        "source": "npm:@nestjs/schematics@9.2.0",
-        "target": "npm:@angular-devkit/schematics@16.0.1",
-        "type": "static"
-      },
-      {
-        "source": "npm:@nestjs/schematics@9.2.0",
-        "target": "npm:jsonc-parser",
-        "type": "static"
-      },
-      {
-        "source": "npm:@nestjs/schematics@9.2.0",
-        "target": "npm:pluralize",
-        "type": "static"
-      }
-    ],
-    "npm:magic-string@0.30.0": [
-      {
-        "source": "npm:magic-string@0.30.0",
-        "target": "npm:@jridgewell/sourcemap-codec",
         "type": "static"
       }
     ],
@@ -18197,6 +18062,11 @@
     "npm:cosmiconfig@8.3.6": [
       {
         "source": "npm:cosmiconfig@8.3.6",
+        "target": "npm:typescript@5.3.2",
+        "type": "static"
+      },
+      {
+        "source": "npm:cosmiconfig@8.3.6",
         "target": "npm:import-fresh",
         "type": "static"
       },
@@ -18393,6 +18263,11 @@
       }
     ],
     "npm:@swc/core": [
+      {
+        "source": "npm:@swc/core",
+        "target": "npm:@swc/helpers",
+        "type": "static"
+      },
       {
         "source": "npm:@swc/core",
         "target": "npm:@swc/counter",
@@ -20263,33 +20138,6 @@
       {
         "source": "npm:combined-stream",
         "target": "npm:delayed-stream",
-        "type": "static"
-      }
-    ],
-    "npm:comment-json": [
-      {
-        "source": "npm:comment-json",
-        "target": "npm:array-timsort",
-        "type": "static"
-      },
-      {
-        "source": "npm:comment-json",
-        "target": "npm:core-util-is",
-        "type": "static"
-      },
-      {
-        "source": "npm:comment-json",
-        "target": "npm:esprima",
-        "type": "static"
-      },
-      {
-        "source": "npm:comment-json",
-        "target": "npm:has-own-prop",
-        "type": "static"
-      },
-      {
-        "source": "npm:comment-json",
-        "target": "npm:repeat-string",
         "type": "static"
       }
     ],
@@ -23998,6 +23846,13 @@
         "type": "static"
       }
     ],
+    "npm:magic-string": [
+      {
+        "source": "npm:magic-string",
+        "target": "npm:@jridgewell/sourcemap-codec",
+        "type": "static"
+      }
+    ],
     "npm:makeerror": [
       {
         "source": "npm:makeerror",
@@ -24165,7 +24020,7 @@
       },
       {
         "source": "npm:next",
-        "target": "npm:@swc/helpers",
+        "target": "npm:@swc/helpers@0.4.14",
         "type": "static"
       },
       {
@@ -24231,6 +24086,13 @@
       {
         "source": "npm:next",
         "target": "npm:@next/swc-win32-x64-msvc",
+        "type": "static"
+      }
+    ],
+    "npm:@swc/helpers@0.4.14": [
+      {
+        "source": "npm:@swc/helpers@0.4.14",
+        "target": "npm:tslib",
         "type": "static"
       }
     ],
@@ -26370,7 +26232,7 @@
       },
       {
         "source": "npm:ts-loader",
-        "target": "npm:source-map@0.7.4",
+        "target": "npm:source-map",
         "type": "static"
       }
     ],
