@@ -16,11 +16,11 @@ const nextConfig = {
 		    return [
       {
         source: '/api',
-        destination: `http://localhost:3000/api`,
+        destination: `http://${process.env.API_URL}/api` || `http://localhost:3000/api`,
       },
       {
         source: '/api/:path*',
-        destination: `http://localhost:3000/api/:path*`,
+        destination: `http://${process.env.API_URL}/api/:path*` || `http://localhost:3000/api/:path*`,
       },
     ];
 	},

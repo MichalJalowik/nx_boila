@@ -280,7 +280,7 @@
         },
         {
           "file": "apps/app/next.config.js",
-          "hash": "5730249272726042238",
+          "hash": "2311982272312776086",
           "deps": [
             "npm:@nrwl/next"
           ]
