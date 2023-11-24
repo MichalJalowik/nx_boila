@@ -4,13 +4,13 @@ import { useEffect, useState } from "react";
 
 
 export function Index() {
-  const [getRes, setRes] = useState({message: 'Loading...'})
-  useEffect(() => {
-    fetch('/api')
-    .then(response => response.json())
-    .then(setRes)
-    .catch(error => console.error(error));
-  }, [])
+  // const [getRes, setRes] = useState({message: 'Loading...'})
+  // useEffect(() => {
+  //   fetch('/api')
+  //   .then(response => response.json())
+  //   .then(setRes)
+  //   .catch(error => console.error(error));
+  // }, [])
 
   return (
     <div className="wrapper">
@@ -19,7 +19,7 @@ export function Index() {
           <h1>
             <span> Hello there, </span>
             
-            {getRes.message}
+            {/* {getRes.message} */}
 
           </h1>
         </div>
