@@ -16,11 +16,13 @@ const nextConfig = {
 		    return [
       {
         source: '/api',
-        destination: `https://${process.env.API_URL}/api` || `https://nx-boila-awesome.vercel.app/api` || `http://localhost:3000/api`,
+        // destination: `https://${process.env.API_URL}/api` || `https://nx-boila-awesome.vercel.app/api` || `http://localhost:3000/api`,
+        destination: `https://nx-boila-super.vercel.app/api`,
       },
       {
         source: '/api/:path*',
-        destination: `https://${process.env.API_URL}/api/:path*` || `https://nx-boila-awesome.vercel.app/api/:path*` || `http://localhost:3000/api/:path*`,
+        // destination: `https://${process.env.API_URL}/api/:path*` || `https://nx-boila-awesome.vercel.app/api/:path*` || `http://localhost:3000/api/:path*`,
+        destination: `https://nx-boila-awesome.vercel.app/api/:path*`,
       },
     ];
 	},
