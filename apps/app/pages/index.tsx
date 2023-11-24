@@ -1,16 +1,26 @@
+import { useEffect, useState } from "react";
+
+
+
+
 export function Index() {
-  /*
-   * Replace the elements below with your own.
-   *
-   * Note: The corresponding styles are in the ./index.css file.
-   */
+  const [getRes, setRes] = useState({message: 'Loading...'})
+  useEffect(() => {
+    fetch('/api')
+    .then(response => response.json())
+    .then(setRes)
+    .catch(error => console.error(error));
+  }, [])
+
   return (
     <div className="wrapper">
       <div className="container">
         <div id="welcome">
           <h1>
             <span> Hello there, </span>
-            Welcome app 👋
+            
+            {getRes.message}
+
           </h1>
         </div>
 
