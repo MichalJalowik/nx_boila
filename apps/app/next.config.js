@@ -17,7 +17,7 @@ const nextConfig = {
       {
         source: '/api',
         // destination: `https://${process.env.API_URL}/api` || `https://nx-boila-awesome.vercel.app/api` || `http://localhost:3000/api`,
-        destination: `https://nx-boila-super.vercel.app/api`,
+        destination: `https://nx-boila-awesome.vercel.app/api`,
       },
       {
         source: '/api/:path*',
