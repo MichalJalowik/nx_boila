@@ -3,7 +3,7 @@
   "repository": "https://github.com/vercel/examples.git",
   "scripts": {
     "start": "nx serve",
-    "build": "nx build",
+    "build": "nx build --output public",
     "test": "nx test"
   },
   "private": true,
