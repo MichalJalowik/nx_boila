@@ -11,19 +11,19 @@ const nextConfig = {
     // Set this to true if you would like to to use SVGR
     // See: https://github.com/gregberge/svgr
     svgr: false,
-  }
-  // async rewrites() {
-	// 	    return [
-  //     {
-  //       source: '/api',
-  //       destination: `http://${process.env.API_URL}/api` || `http://localhost:3000/api`,
-  //     },
-  //     {
-  //       source: '/api/:path*',
-  //       destination: `http://${process.env.API_URL}/api/:path*` || `http://localhost:3000/api/:path*`,
-  //     },
-  //   ];
-	// },
+  },
+  async rewrites() {
+		    return [
+      {
+        source: '/api',
+        destination: `https://${process.env.API_URL}/api` || `http://localhost:3000/api`,
+      },
+      {
+        source: '/api/:path*',
+        destination: `https://${process.env.API_URL}/api/:path*` || `http://localhost:3000/api/:path*`,
+      },
+    ];
+	},
 };
 
 module.exports = withNx(nextConfig);
